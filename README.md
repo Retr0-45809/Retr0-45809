@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=retr0-45809" alt="retr0-45809" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, NodeJs and UI/Ux Design**
+- 🌱 I’m currently learning **React and Kali Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
