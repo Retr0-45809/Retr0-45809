@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Sajeeth</h1>
-<h3 align="center">A passionate Computer Science student from India</h3>
+<h3 align="center">A passionate BTech Undergraduate in Computer Science from MIT Academy of Engineering interested in the field of Cybersecurity, Data Analysis, Web Development and Cloud Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retr0-45809&label=Profile%20views&color=0e75b6&style=flat" alt="retr0-45809" /> </p>
 
